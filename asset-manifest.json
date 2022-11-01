@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.a498921b.css",
+    "main.js": "/ReactApp/static/js/main.fec071f7.js",
+    "static/media/pngwing.png": "/ReactApp/static/media/pngwing.41df6283adbc41a1dc63.png",
+    "static/media/agulha.png": "/ReactApp/static/media/agulha.d360ce668f8e722b3621.png",
+    "index.html": "/ReactApp/index.html",
+    "main.a498921b.css.map": "/ReactApp/static/css/main.a498921b.css.map",
+    "main.fec071f7.js.map": "/ReactApp/static/js/main.fec071f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a498921b.css",
+    "static/js/main.fec071f7.js"
+  ]
+}
